@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2c44706-de1b-436c-83d3-c918e4bdead7" name="Changes" comment="Print CS 311">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a2c44706-de1b-436c-83d3-c918e4bdead7" name="Changes" comment="Lab Work 1 - Attributes, getters &amp; setters, gotta call methods in main">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738171536401</updated>
       <workItem from="1738171537518" duration="2016000" />
-      <workItem from="1738173783399" duration="1346000" />
+      <workItem from="1738173783399" duration="1628000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -94,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738172803042</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lab Work 1 - Attributes, getters &amp; setters, gotta call methods in main">
+      <option name="closed" value="true" />
+      <created>1738175179909</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738175179910</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,17 +121,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Removed comment" />
     <MESSAGE value="Print CS 311" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print CS 311" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Lab Work 1 - Attributes, getters &amp; setters, gotta call methods in main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab Work 1 - Attributes, getters &amp; setters, gotta call methods in main" />
   </component>
 </project>
